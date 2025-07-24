@@ -1,8 +1,8 @@
-# QuizApplication  
+# QuizWise - a Quiz Application  
 A Java-based GUI Quiz System with Multiple Scoring Modes and User Roles
 
 ## Overview  
-**QuizApplication** is a desktop-based quiz system built using Java Swing. It supports two user roles: **Admin** and **Participant**. Participants can sign up, log in, edit profiles, and engage in quizzes with flexible scoring options. Admins can add new questions and monitor participant scores. The application also tracks historical data and displays real-time scoreboards.
+**QuizWise** is a desktop-based quiz system built using Java Swing. It supports two user roles: **Admin** and **Participant**. Participants can sign up, log in, edit profiles, and engage in quizzes with flexible scoring options. Admins can add new questions and monitor participant scores. The application also tracks historical data and displays real-time scoreboards.
 
 ---
 
