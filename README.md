@@ -101,4 +101,6 @@ A Java-based GUI Quiz System with Multiple Scoring Modes and User Roles
 - **Empty Fields**: Prevents actions with missing data
 - **Duplicate Users**: Restricts registration of existing usernames
 
+---
 
+## Project Link: [https://github.com/vandanaj0110/QuizWise](https://github.com/vandanaj0110/QuizWise)
